@@ -1,0 +1,2 @@
+LIBRARY         idl_aacgm
+EXPORTS         IDL_Load        @1
